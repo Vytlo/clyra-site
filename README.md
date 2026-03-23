@@ -1,2 +1,2 @@
-# clyra-site
-Clyra - Created by Vytlo
+# Clyra Website
+Created by Vytlo
